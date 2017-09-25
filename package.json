@@ -29,6 +29,11 @@
         "label": "One Dark Pro Vivid",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark-Pro-vivid.json"
+      },
+      {
+        "label": "One Dark Pro Elixir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro-elixir.json"
       }
     ]
   },
